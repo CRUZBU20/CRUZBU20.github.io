@@ -6,26 +6,25 @@ title: FAQ
 description: |
 ---
 ¿TEAM-WARE es una empresa?
+  TEAM-WARE es una marca registrada cuyo propietario es una persona física con actividades empresariales. Somos una Pyme y contamos con colaboradores en ramas auxiliares de los servicios que ofrecemos. Por ejemplo, Hay un Webmaster que colabora con nosotros y es la persona que le ayudará si tiene Usted la necesidad de desarrollar una página web o darle mantenimiento. También tenemos programador quien colabora con nosotros cuando hay proyectos que impliquen el desarrollo de aplicaciones a la medida. De igual manera, contamos con un experto en medios digitales si requiere Usted un servicio de audio o video. Algunos de los servicios que se ofrecen son vía colaboración por lo que Usted tratará directamente con la persona que tiene el conocimiento para solucionarle su problema.
 
-TEAM-WARE es una marca registrada cuyo propietario es una persona física con actividades empresariales. Somos una Pyme y contamos con colaboradores en ramas auxiliares de los servicios que ofrecemos. Por ejemplo, Hay un Webmaster que colabora con nosotros y es la persona que le ayudará si tiene Usted la necesidad de desarrollar una página web o darle mantenimiento. También tenemos programador quien colabora con nosotros cuando hay proyectos que impliquen el desarrollo de aplicaciones a la medida. De igual manera, contamos con un experto en medios digitales si requiere Usted un servicio de audio o video. Algunos de los servicios que se ofrecen son vía colaboración por lo que Usted tratará directamente con la persona que tiene el conocimiento para solucionarle su problema.
 ¿Cuál es el horario de prestación del soporte técnico?
+  El horario de atención es de lunes a viernes de 09:30 a 19:00 hrs. y sábado de 09:30 a 14:00 horas con excepción de los días feriados.
 
-El horario de atención es de lunes a viernes de 09:30 a 19:00 hrs. y sábado de 09:30 a 14:00 horas con excepción de los días feriados.
 ¿Es posible que atiendan en horarios fuera del horario normal de atención?
-
-Sí. Siempre y cuando esto sea pactado con el cliente que tiene tal necesidad aceptando el costo que corresponda.
+  Sí. Siempre y cuando esto sea pactado con el cliente que tiene tal necesidad aceptando el costo que corresponda.
+  
 ¿Cuáles son los medios a través de los cuales brinda el soporte técnico TEAM-WARE?
-
-El soporte técnico de Serot tiene 3 modalidades: • Laboratorio. La reparación se realiza en nuestras oficinas, servicio que se presta con el costo más accesible y en el mejor tiempo de respuesta. • Domicilio. El soporte en sitio se brinda en el hogar o en las oficinas del cliente, previa cita y dentro de nuestros horarios de atención, con costo de visita y no se bonifica siendo de $200.00 doscientos pesos. • On Line. Se accede en forma remoto a la pc del cliente. Servicio que requiere que la computadora a ser revisada cuente con un servicio de acceso a internet de alta velocidad y que éste no sea el problema.
+  El soporte técnico de Serot tiene 3 modalidades: • Laboratorio. La reparación se realiza en nuestras oficinas, servicio que se presta con el costo más accesible y en el mejor tiempo de respuesta. • Domicilio. El soporte en sitio se brinda en el hogar o en las oficinas del cliente, previa cita y dentro de nuestros horarios de atención, con costo de visita y no se bonifica siendo de $200.00 doscientos pesos. • On Line. Se accede en forma remoto a la pc del cliente. Servicio que requiere que la computadora a ser revisada cuente con un servicio de acceso a internet de alta velocidad y que éste no sea el problema.
+  
 ¿Cuáles son los medios de pago que TEAM-WARE tiene para el cobro de sus servicios?
-
-• Tarjeta de Crédito (Visa y Master Card) • Efectivo • Paypal. • Depósito o Transferencia Bancaria, Tenemos cuenta en Banamex y HSBC.
+ • Tarjeta de Crédito (Visa y Master Card) • Efectivo • Paypal. • Depósito o Transferencia Bancaria, Tenemos cuenta en Banamex y HSBC.
+ 
 ¿Cómo son las tarifas cuando se requiere que el soporte técnico sea en el domicilio?
-
-Las tarifas del domicilio son las mismas que en laboratorio mas el costo de visita que es de $200.00 que no se bonifican. Sin embargo, dependiendo de la falla que presente el equipo, el técnico le indicará si es necesario trasladar el equipo a nuestro laboratorio y el tiempo estimado para su devolución. Comúnmente si el equipo requiere partes de reemplazo o ser formateado el equipo será trasladado a nuestro laboratorio. En estos casos es muy probable que el tiempo para resolverle su problema sea mayor.
+  Las tarifas del domicilio son las mismas que en laboratorio mas el costo de visita que es de $200.00 que no se bonifican. Sin embargo, dependiendo de la falla que presente el equipo, el técnico le indicará si es necesario trasladar el equipo a nuestro laboratorio y el tiempo estimado para su devolución. Comúnmente si el equipo requiere partes de reemplazo o ser formateado el equipo será trasladado a nuestro laboratorio. En estos casos es muy probable que el tiempo para resolverle su problema sea mayor.
+  
 Aparte de dar soporte técnico, ¿TEAM-WARE vende computadoras?
-
-Sí. TEAM-WARE Es orgullosamente distribuidor y centro autorizado de la marca 100% mexicana TEXA. En adición, cuenta con distintas modelos de computadoras armadas para las distintas necesidades de los clientes.
+ Sí. TEAM-WARE Es orgullosamente distribuidor y centro autorizado de la marca 100% mexicana TEXA. En adición, cuenta con distintas modelos de computadoras armadas para las distintas necesidades de los clientes.
 ¿Los técnicos de TEAM-WARE se encuentran certificados para brindar soporte técnico?
 
 Sí. TEAM-WARE cuenta con técnicos certificados en cada una de las áreas técnicas que van desde reparación de pc, redes, administración de servidores y cableado estructurado.
