@@ -91,23 +91,10 @@ Lo primero que usted debe hacer es verificar que el cable de potencia este bien 
 Verifique que el cable de potencia del monitor este bien conectado, si con esto no prende el monitor desconecte el cable de potencia del computador, es decir desconectar el equipo totalmente de la conexión eléctrica, luego de unos segundos vuelva a conectar y proceda a encender el equipo como siempre lo ha hecho.
 
 
-¿Qué hago cuando el mouse está pegado?
-
-Generalmente, el mouse se pega por causa de la suciedad, así que la limpieza periódica del mouse es muy importante. Primero voltee el mouse y por debajo usted abrirá una pequeña tapa giratorio, luego retire la bola y proceda a limpiar los contactos internos en las cuatro puntas (oriente, occidente, norte y sur) de su mouse. Vuelva a colocar la bola y a tapar nuevamente.  
-
-¿Qué hago cuando el teclado deja de funcionar?
-
-Primero que todo verifique que el conector del teclado que va pegado a la C.P.U este esté haciendo buen contacto con el puerto, luego de hacer ésta verificación y si el problema no se soluciona, verifique que los pines del conector estén en buen estado, es decir que no exista alguno torcido o quebrado.
-
-
 ¿Qué hacer cuando el equipo no arranca y se queda en pantalla de Windows?
 
 Intente entrar a modo de prueba de fallos cuando el computador esta en pantalla negra, donde se despliega la información de hardware. El tiempo para realizar esta operación es de 3 segundos antes de mostrar la pantalla de Windows. Si entra a modo de prueba de fallos, la pantalla aparecerá con los colores desconfigurados; debe reiniciar el equipo para que parta normalmente, si aun así no se soluciona el problema, debe reinstalar Windows.
 
-
-¿Qué hacer cuando la red no me funciona?
-
-Primero que todo verifique el cableado de red, que estén los dos conectores(el que va al equipo y el que viene del puerto de red) bien conectados. Luego de hacer esta verificación y no funciona la red, opte por hacer lo siguiente: con el mouse de inicio, ejecutar y digite ping –t 200.12.180.4 luego de hacer esto debe salir una pantalla negra en modo D.O.S dando la siguiente respuesta: “replyfrom 200.12.180.4” esto indica que usted tiene red, o si en cambio le sale: “request time out” esto indica que usted no tiene red y debe comunicarse con el administrador de la red.
 
 ¿Que hago si mi computadora esta muy caliente?
 
